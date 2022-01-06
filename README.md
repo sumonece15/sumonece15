@@ -4,3 +4,4 @@ I am a hardworking, honest individual, always willing to learn new skills. Quite
 To fulfill my object, I am outgoing and tactful and able to listen effectively when solving problems.
 
 
+https://github-readme-stats.vercel.app/api?sumonece15
