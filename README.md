@@ -6,7 +6,7 @@ I'm a Mobile Application developer and an enthusiastic person who loves to explo
 
 Besides I'm a hard-working, honest individual, always willing to learn new skills. Quite friendly, helpful, and polite, have a good sense of humor.
 </p> 
-<div align="center">
+<div align="left">
 
 <h2 align="left">Languages and Tools:</h2>
  
