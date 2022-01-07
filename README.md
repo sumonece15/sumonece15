@@ -15,7 +15,6 @@ I am a hardworking, honest individual, always willing to learn new skills. Quite
 
 ![GitHub metrics](https://metrics.lecoq.io/sumonece15)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sumonece15)  
 
 ![Profile views](https://gpvc.arturio.dev/sumonece15)  
 
