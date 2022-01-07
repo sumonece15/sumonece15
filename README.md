@@ -14,8 +14,6 @@ I'm a Mobile Application developer and an enthusiastic person who loves to explo
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumonece15&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/sumonece15)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sumonece15)  
 
 <h2 align="left">Connect with me:</h2>
