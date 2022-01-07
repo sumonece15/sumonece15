@@ -1,7 +1,7 @@
 #  Hey there 👋
 ## I am Sumon Hossain
 
-<p align="center">
+<p align="left">
 I'm a Mobile Application developer and an enthusiastic person who loves to explore different paths of new technology. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 Besides I'm a hard-working, honest individual, always willing to learn new skills. Quite friendly, helpful, and polite, have a good sense of humor.
