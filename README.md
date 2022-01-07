@@ -24,7 +24,7 @@ I'm a Mobile Application developer and an enthusiastic person who loves to explo
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/sumonece15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumonece15" height="30" width="40" /></a>
+<a href="https://twitter.com/sumonece15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumonece15" height="20" width="50" /></a>
 <a href="https://linkedin.com/in/sumonece15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumonece15" height="30" width="40" /></a>
 <a href="https://fb.com/sumonece15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumonece15" height="30" width="40" /></a>
 <a href="https://instagram.com/sumonece15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumonece15" height="30" width="40" /></a>
